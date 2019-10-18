@@ -71,7 +71,7 @@ export default {
       const protocolToUse = 'https:';
       const s = document.createElement('script');
       s.async = s.defer = true;
-      s.src = `${protocolToUse}//platform.instagram.com/en_US/embeds.js`;
+      s.src = `${protocolToUse}//www.instagram.com/embed.js`;
       s.id = 'vue-instagram-embed-script';
       const body = document.body;
       if (body) {

@@ -2736,7 +2736,7 @@ var es6_number_constructor = __webpack_require__("c5f6");
       var protocolToUse = 'https:';
       var s = document.createElement('script');
       s.async = s.defer = true;
-      s.src = "".concat(protocolToUse, "//platform.instagram.com/en_US/embeds.js");
+      s.src = "".concat(protocolToUse, "//www.instagram.com/embed.js");
       s.id = 'vue-instagram-embed-script';
       var body = document.body;
 
